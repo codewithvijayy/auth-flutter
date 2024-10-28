@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933689726925",
+    "project_id": "signapp-5c3bf",
+    "storage_bucket": "signapp-5c3bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933689726925:android:fb0317ac28794b37f01684",
+        "android_client_info": {
+          "package_name": "com.example.signpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpQ2jRGwG-qSrf04gGEqcJbAF0OzysNfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
